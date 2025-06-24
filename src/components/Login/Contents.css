@@ -1,0 +1,31 @@
+.addUser {
+    width : 25%;
+    margin: 50px auto;
+    border: rgb(28, 28, 150) 1px solid;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 1px, 1px, 8px, rgba(0, 0, 0, 0.065);
+}
+
+.addUserForm .inputGroup {
+    width: 99%;
+    display: flex;
+    flex-direction: column;;
+    
+}
+
+.addUserForm .inputGroup label {
+    margin-top: 10px;
+} 
+
+.addUserForm .inputGroup input {
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid rgb(28, 28, 150);
+}
+
+.addUser h1 {
+    font-weight: bold;
+    color: rgb(28, 28, 150);
+    text-transform: capitalize;
+}
