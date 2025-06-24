@@ -33,7 +33,7 @@ function Contents() {
                     </div>
                 </div>
                 <div className='col text-center'>
-                    <img src='Images/leftImage.png' alt='leftimg' style={{ width: "120%" }} />
+                    <img src='Images/leftimage.png' alt='leftimg' style={{ width: "120%" }} />
                 </div>
             </div>
             <div className='row mt-5 mb-5'>
